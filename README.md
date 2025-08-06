@@ -2,15 +2,15 @@
 
 A collection of JavaScript mini-projects and learning logs to showcase my journey from beginner to expert.
 
-# 🚀 JavaScript Learning Journey – Web Development Course
+## 🚀 JavaScript Learning Journey – Web Development Course
 
 Welcome to my JavaScript learning repository, a structured showcase of my progress through the core and advanced concepts of JavaScript as part of my full-stack web development training. This repo not only documents my hands-on experience but also reflects my commitment to becoming a proficient frontend/backend developer ready for real-world challenges.
 
-# 📌 About This Repository
+## 📌 About This Repository
 
 This repository is a collection of exercises, challenges, and mini-projects designed to solidify my understanding of modern JavaScript. Every concept here has been implemented with practical code and real application logic.
 
-# 🧑‍💻 **Why this repo matters for you (as a hiring manager):**
+## 🧑‍💻 **Why this repo matters for you (as a hiring manager):**
 
 It reflects my consistent dedication, hands-on skill development, and ability to translate theory into working, interactive applications.
 
