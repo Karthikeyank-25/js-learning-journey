@@ -2,8 +2,8 @@
 //          It is used to calculate numberr of characters in the string.
 
 // Syntax :
-            var name = "String";
-            name.length;
+            var typeName = "String";
+            typeName.length;
 
 // For Example :
             var schoolName = "Kamalammal"
