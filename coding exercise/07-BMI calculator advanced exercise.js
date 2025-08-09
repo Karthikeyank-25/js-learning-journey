@@ -13,6 +13,18 @@
 
 // Solution :
 
-function bmiAdvanceCalculator({
-    
-})
+function bmiAdvanceCalculator(weight,height){
+    let aboveValue = weight;
+    let beloveValue = height*height;
+    let bmi = Math.round(aboveValue/beloveValue);
+
+    if(bmi<18.5){
+        return "Your BMI is "+bmi+", so you are underweight.";
+    }
+    else if(18.5 < bmi && bmi < 24.9){
+        return "Your BMI is "+bmi+", so you have a normal weight.";
+    }
+    else if(bmi > 24.9){
+        return "Your BMI is "+bmi+", so you are overweight.";
+    }
+}
