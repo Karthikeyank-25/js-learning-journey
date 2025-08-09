@@ -18,5 +18,5 @@
         fruitName.unshift("Papaya");    // add at start
         fruitName.shift();              // remove from start
         fruitName.length();             // find the length
-        fruitName.slice();              // (start index value , no of values from index , replacing value for that index postion)
+        fruitName.splice();              // (start index value , no of values from index , replacing value for that index postion)
         fruitName.slice();              // cut the specific values (start,end)
