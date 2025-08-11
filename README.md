@@ -86,9 +86,8 @@ I'm currently expanding this knowledge into:
 This repository is more than a learning log—it's a portfolio of real coding practices, structured problem-solving, and UI logic building. I'm actively seeking **frontend/full-stack developer internships or junior developer roles** where I can contribute to meaningful projects and continue growing.
 
 📬 **Reach Me:**  
-- 📧 Email: karthikeyankandan25@gmail.com  
-- 💼 LinkedIn: Karthikeyan-25  
-- 🌐 Portfolio: ...
+- 📧 Email: karthikeyankandan25@gmail.com    
+- 🌐 Portfolio: https://karthikeyank-25.github.io/Portfolio_Project/
 
 ---
 
